@@ -1,4 +1,4 @@
-package day4problems;
+package com.employeewage;
 
 import java.util.Random;
 
