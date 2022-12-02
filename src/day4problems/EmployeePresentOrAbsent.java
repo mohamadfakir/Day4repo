@@ -1,4 +1,4 @@
-package day4problems;
+package com.employeewage;
 
     public class EmployeePresentOrAbsent {
         public static void main(String[] args) {
